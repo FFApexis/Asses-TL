@@ -3,14 +3,16 @@
   "description": "Ass",
   "artist": "",
   "author": "",
-  "cover": "https://www.hoyolab.com/article/32128622",
+  "cover": "",
   "chapters": {
     "1": {
       "title": "Bokita in Sendai",
       "volume": "",
       "last_updated": "1741579466",
       "groups": {
-        "Asses TL": "/proxy/api/mangadex/chapter/85533146-19ef-4e7a-95c6-a4c484be5dd3"
+        "Asses TL": [
+          "https://imgur.com/a/bokita-sendai-by-3sai-YB0L3tr"
+        ]
       }
     }
   }
